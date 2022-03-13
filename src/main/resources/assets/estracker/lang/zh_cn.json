@@ -1,0 +1,7 @@
+{
+  "notification.estracker.coordinate": "发现 %s，在%s",
+  "commands.estracker.add.success": "已添加 %s",
+  "commands.estracker.remove.success": "已移除 %s",
+  "commands.estracker.remove.failure": "%s 不存在",
+  "commands.estracker.total": "共 %s 条"
+}

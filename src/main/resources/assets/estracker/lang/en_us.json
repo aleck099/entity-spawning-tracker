@@ -1,0 +1,7 @@
+{
+  "notification.estracker.coordinate": "Found %s at %s",
+  "commands.estracker.add.success": "Added %s",
+  "commands.estracker.remove.success": "Removed %s",
+  "commands.estracker.remove.failure": "%s not found",
+  "commands.estracker.total": "Total: %s"
+}
